@@ -1,7 +1,7 @@
 <h1 align="center">🎵 Duggu Music Bot 🎵</h1>
 
 <p align="center">
-  <img src="https://graph.org/file/e3b45a0dcd554d1ca9043.jpg" alt="Duggu Music Logo" width="600" height="150">
+  <img src="https://graph.org/file/e3b45a0dcd554d1ca9043.jpg" alt="Duggu Music Logo" width="600" height="300">
 </p>
 
 <p align="center">
